@@ -21,7 +21,7 @@ This Step Tracking Application is designed to help individuals track their daily
   - Fields:
     - MemberId
     - Pointer to user node (User *ptr)
-
+  - Sorting: Based on Member Id
 - **Groups Linked List:** A linked list to store information about groups.
   - Fields:
     - Group-ID
@@ -48,6 +48,4 @@ This Step Tracking Application is designed to help individuals track their daily
 - The application is implemented in C programming language.
 - Data structures used: Singly linked lists for individuals and groups.
 - File handling is used for data input and output.
-- The user interface is text-based.
-
----
+- The user interface is command based example images of user interface are attached to the repository
